@@ -1,0 +1,6 @@
+{
+  "ui_defs": [
+    "property/player_list_hud.json",
+    "property/time_played.json"
+  ]
+}

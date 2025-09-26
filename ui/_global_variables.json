@@ -1,0 +1,14 @@
+{
+  "$ryPLHUD:player_list_button_anchor_from": "top_middle",
+  "$ryPLHUD:player_list_button_anchor_to": "top_middle",
+  "$ryPLHUD:player_list_button_size": [18, 18],
+  "$ryPLHUD:player_list_button_offset": [-38.5, 1.5],
+  "$ryPLHUD:player_list_button_alpha": 1.0,
+  
+  "$ryPLHUD:use_fake_ping": true,
+  
+  
+  
+  // dont touch this
+  "$is_player_list_hud_pack_enabled": true
+}

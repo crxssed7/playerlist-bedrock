@@ -1,0 +1,25 @@
+{
+  "root_panel": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": [
+          {
+            "player_list_panel@ryPLHUD.player_list_panel": {}
+          },
+          {
+            "player_list_button@ryPLHUD.player_list_button": {
+              "ignored": "$touch"
+            }
+          },
+          {
+            "player_list_button_touch@ryPLHUD.player_list_button_touch": {
+              "ignored": "(not $touch)"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

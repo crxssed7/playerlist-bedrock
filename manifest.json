@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§7v0.2 by @Itzriyo157§r\n\nClick Setting on Bottom for Information.",
+    "name": "Player List HUD",
+    "uuid": "90909090-9a9d-9090-9090-909093922a39",
+    "version": [0, 2, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": ":v",
+      "type": "resources",
+      "uuid": "1170909d-9a20-9a90-9090-902aa030a090",
+      "version": [0, 2, 0]
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "Player List HUD by §7@Itzriyo157§r\nPack Version: §7V0.2§r | §aRelease§r\nSupported Versions: §71.16 - latest§r\n\nIf you found a bug/error. You can report it to me on Discord, Youtube or Facebook.\n"
+    },
+    {
+      "type": "input",
+      "default": "youtube.com/@Itzriyo157",
+      "text": "My Youtube Channel",
+      "name": "yt"
+    },
+    {
+      "type": "input",
+      "default": "Ry157#5972",
+      "text": "My Discord Username",
+      "name": "dc"
+    },
+    {
+      "type": "input",
+      "default": "facebook.com/RiyoRamdhani157",
+      "text": "My Facebook Profile",
+      "name": "fb"
+    }
+  ],
+  "metadata": { "authors": ["itzriyo157"] }
+}
