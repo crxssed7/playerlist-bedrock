@@ -832,7 +832,7 @@
         "mapping_type": "global"
       },
       {
-        "from_button_id": "button.select",
+        "from_button_id": "button.menu_secondary_select",
         "to_button_id": "button.menu_select",
         "mapping_type": "global"
       },

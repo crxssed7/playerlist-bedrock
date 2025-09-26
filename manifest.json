@@ -4,7 +4,7 @@
     "description": "§7v0.2 by @Itzriyo157§r\n\nClick Setting on Bottom for Information.",
     "name": "Player List HUD",
     "uuid": "90909090-9a9d-9090-9090-909093922a39",
-    "version": [0, 2, 0],
+    "version": [0, 3, 0],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": ":v",
       "type": "resources",
       "uuid": "1170909d-9a20-9a90-9090-902aa030a090",
-      "version": [0, 2, 0]
+      "version": [0, 3, 0]
     }
   ],
   "settings": [
